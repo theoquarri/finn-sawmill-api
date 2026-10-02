@@ -1,0 +1,14 @@
+{
+ "resource": "vendors",
+ "generated_at": "2026-09-28T03:30:00Z",
+ "page_size": 100,
+ "pages": [
+  {
+   "href": "page-0001.json",
+   "count": 4,
+   "updated_from": "2026-09-28T03:00:05Z",
+   "updated_to": "2026-09-28T03:00:05Z"
+  }
+ ],
+ "records": 4
+}

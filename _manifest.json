@@ -1,0 +1,31 @@
+{
+ "base_url": "https://theoquarri.github.io/finn-sawmill-api",
+ "resources": {
+  "customers": {
+   "pages": 1,
+   "records_served": 12,
+   "unique_records": 12
+  },
+  "invoices": {
+   "pages": 22,
+   "records_served": 4229,
+   "unique_records": 4219
+  },
+  "products": {
+   "pages": 1,
+   "records_served": 22,
+   "unique_records": 22
+  },
+  "receipts": {
+   "pages": 11,
+   "records_served": 1056,
+   "unique_records": 1056
+  },
+  "vendors": {
+   "pages": 1,
+   "records_served": 4,
+   "unique_records": 4
+  }
+ },
+ "seed": 20261002
+}
